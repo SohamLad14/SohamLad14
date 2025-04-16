@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Soham Lad — Aspiring AI Innovator</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sahilrahman12/sahilrahman12/main/assets/ai-coding.gif" width="60%" alt="AI Coding Banner"/>
+  <img src=["https://i.pinimg.com/736x/b4/d1/7a/b4d17a3041602897cd7d4519a75f2ecb.jpg/">
 </p>
 
 ### 🧠 Exploring the Future of Artificial Intelligence and Generative Models
