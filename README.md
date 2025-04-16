@@ -31,6 +31,19 @@
 
 ---
 
+
+ **Featured Projects**
+
+- 📊 **Loan Default Risk Prediction** – ML model for financial risk detection.
+- 📈 **Retail Demand Forecasting** – LSTM-based time-series prediction.
+- 💬 **Sentiment Analysis for Brand Monitoring** – NLP on social media.
+- 🧑‍💻 **Face Recognition System** – OpenCV-based real-time face detection.
+
+---
+
+> *“I believe AI isn't just the future — it's the tool that will redefine the present.”*
+
+
 **Languages & Tools**
 
 <p align="left">
