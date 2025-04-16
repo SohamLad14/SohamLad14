@@ -8,8 +8,7 @@
 - 🔭 Currently building **Generative AI-powered mini projects**
 - 🌱 Exploring **Transformers, LangChain, VectorDBs, RAG**
 - 👯 Open to collaborate on **open-source AI/ML & GenAI projects**
-- 💬 Ask me about:  
-  `Machine Learning · Deep Learning · OpenCV · Generative AI`
+- 💬 Areas of Interest: Machine Learning | Deep Learning | OpenCV | Generative AI
 - 📫 Reach out: **ladsoham718@gmail.com**
 - 🛠️ Portfolio: [github.com/sohamlad14](https://github.com/sohamlad14)
 
