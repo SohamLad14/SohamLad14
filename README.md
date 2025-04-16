@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="[https://drive.google.com/uc?export=view&id=1D3cOKe449nFRbtW0AgcxYBUINKtGTwVw](https://www.google.com/url?sa=i&url=https%3A%2F%2Fin.linkedin.com%2Fin%2Flad-soham-a97305205&psig=AOvVaw02GQqEnL6sQqkpuGumjNd1&ust=1744913566458000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIiNutyT3YwDFQAAAAAdAAAAABAE)" width="150" height="150" style="border-radius: 50%;" alt="Soham Lad"/>
-</p>
-
 <h1 align="center">Hi 👋, I'm Soham Lad</h1>
 <h3 align="center">Aspiring AI Innovator | Building the Future with Generative AI</h3>
 
