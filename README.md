@@ -1,9 +1,13 @@
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1D3cOKe449nFRbtW0AgcxYBUINKtGTwVw" width="150" height="150" style="border-radius: 50%;" alt="Soham Lad"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Soham Lad</h1>
 <h3 align="center">Aspiring AI Innovator | Building the Future with Generative AI</h3>
 
 ---
 
-**About Me**
+### 🧠 About Me
 
 - 🔭 Currently building **Generative AI-powered mini projects**
 - 🌱 Exploring **Transformers, LangChain, VectorDBs, RAG**
@@ -14,7 +18,7 @@
 
 ---
 
-**Blog**
+### ✍️ Blog
 
 <p align="left">
   <a href="https://medium.com/@ladsoham14202sk" target="_blank">
@@ -24,7 +28,7 @@
 
 ---
 
-**Featured Projects**
+### 🚀 Featured Projects
 
 - 📊 **Loan Default Risk Prediction** – ML model for financial risk detection.
 - 📈 **Retail Demand Forecasting** – LSTM-based time-series prediction.
@@ -37,7 +41,7 @@
 
 ---
 
-**Languages & Tools**
+### 🛠️ Languages & Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54"/>
@@ -55,7 +59,7 @@
 
 ---
 
-🛠️ **Tech Stack**
+### 🔧 Tech Stack
 
 ![Python 3.10](https://img.shields.io/badge/Python-3.10-blue)
 ![TensorFlow / Keras](https://img.shields.io/badge/TensorFlow-Keras-orange)
@@ -65,6 +69,8 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.5.2-blue)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-3.4.3-red)
 
-
-
 ---
+
+<p align="center">
+  <i>Thank you for visiting my profile! Feel free to connect and collaborate 💬</i>
+</p>
