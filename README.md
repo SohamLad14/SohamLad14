@@ -3,7 +3,7 @@
 
 ---
 
- **About Me**
+**About Me**
 
 - 🔭 Currently building **Generative AI-powered mini projects**
 - 🌱 Exploring **Transformers, LangChain, VectorDBs, RAG**
@@ -15,24 +15,17 @@
 
 ---
 
-**Connect with Me**
+**Blog**
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/ladsoham" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://kaggle.com/ladsoham" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-  </a>
-  <a href="mailto:ladsoham718@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://medium.com/@ladsoham14202sk" target="_blank">
+    <img src="https://img.shields.io/badge/Blog-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
 </p>
 
 ---
 
-
- **Featured Projects**
+**Featured Projects**
 
 - 📊 **Loan Default Risk Prediction** – ML model for financial risk detection.
 - 📈 **Retail Demand Forecasting** – LSTM-based time-series prediction.
@@ -43,6 +36,7 @@
 
 > *“I believe AI isn't just the future — it's the tool that will redefine the present.”*
 
+---
 
 **Languages & Tools**
 
@@ -62,3 +56,21 @@
 
 ---
 
+🛠️ **Tech Stack**
+
+![Python 3.10](https://img.shields.io/badge/Python-3.10-blue)
+![TensorFlow / Keras](https://img.shields.io/badge/TensorFlow-Keras-orange)
+![NumPy](https://img.shields.io/badge/NumPy-1.21.2-green)
+![Pandas](https://img.shields.io/badge/Pandas-1.3.3-blue)
+![Streamlit](https://img.shields.io/badge/Streamlit-1.2.0-blue)
+![OpenCV](https://img.shields.io/badge/OpenCV-4.5.2-blue)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3.4.3-red)
+
+- **Python 3.10**
+- **TensorFlow / Keras**
+- **NumPy / Pandas**
+- **Streamlit**
+- **OpenCV**
+- **Matplotlib (for visualization)**
+
+---
