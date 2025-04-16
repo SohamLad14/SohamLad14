@@ -1,23 +1,26 @@
 <h1 align="center">👋 Hi, I'm Soham Lad — Aspiring AI Innovator</h1>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sahilrahman12/sahilrahman12/main/assets/ai-coding.gif" width="60%" alt="AI Coding Banner"/>
+</p>
+
 ### 🧠 Exploring the Future of Artificial Intelligence and Generative Models
 
 ---
 
-- 🤖 Machine Learning Engineer with hands-on experience in **ML, Deep Learning, and NLP**
-- 🧪 Currently diving deep into **Generative AI**, Transformers, and large-scale ML systems
+- 🤖 Machine Learning Engineer skilled in **ML, Deep Learning, and NLP**
+- 🧪 Currently learning **Generative AI** and Transformer-based architectures
 - 🎓 Former Expert Faculty at Techmicra IT Solutions & Silver Oak College
-- 🔬 Passionate about solving real-world problems using **data-driven AI solutions**
-- 📫 Reach me at: ladsoham718@gmail.com
-- 📄 [My Resume](https://github.com/sohamlad/sohamlad/blob/main/Soham_Resume_ML.PDF)
+- 🔬 Passionate about creating **real-world AI solutions**
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/lad-soham/)
+- 📫 Email me at: ladsoham718@gmail.com
 
 ---
 
 ### 🤝 Let’s Collaborate On:
-- Production-ready **ML/DL** applications
-- Research-driven **GenAI Projects**
-- AI product development with real-world impact
+- Production-ready **ML/DL apps**
+- Research-driven **GenAI projects**
+- AI + Data Science for impact-driven startups
 
 ---
 
@@ -37,10 +40,10 @@
 
 ### 🔍 Featured Projects
 
-- 📊 **Loan Default Risk Prediction** – ML model to assess financial risk.
-- 📈 **Time-Series Forecasting** – LSTM-based retail demand prediction.
-- 💬 **Sentiment Analysis for Brand Monitoring** – NLP applied to social data.
-- 🧑‍💻 **Face Recognition System** – Real-time face detection and recognition using OpenCV.
+- 📊 **Loan Default Risk Prediction** – ML model for financial risk detection.
+- 📈 **Retail Demand Forecasting** – LSTM-based time-series prediction.
+- 💬 **Sentiment Analysis for Brand Monitoring** – NLP on social media.
+- 🧑‍💻 **Face Recognition System** – OpenCV-based real-time face detection.
 
 ---
 
