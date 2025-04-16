@@ -1,50 +1,22 @@
-<h1 align="center">👋 Hi, I'm Soham Lad — Aspiring AI Innovator</h1>
+<h1 align="center">Hi 👋, I'm Soham Lad</h1>
+<h3 align="center">Aspiring AI Innovator</h3>
 
-<p align="center">
-  <img src=["https://i.pinimg.com/736x/b4/d1/7a/b4d17a3041602897cd7d4519a75f2ecb.jpg/">
+- 🔭 I’m currently working on **Building GenAI-powered mini-projects**
+
+- 🌱 I’m currently learning **Generative AI, Transformers, LangChain, VectorDBs, RAG**
+
+- 👯 I’m looking to collaborate on **Open-source AI/ML and GenAI projects**
+
+- 👨‍💻 All of my projects are available at [https://github.com/sohamlad14](https://github.com/sohamlad14)
+
+- 💬 Ask me about **Machine Learning, Deep Learning, OpenCV, Generative AI**
+
+- 📫 How to reach me **ladsoham718@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://kaggle.com/ladsoham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ladsoham" height="30" width="40" /></a>
 </p>
 
-### 🧠 Exploring the Future of Artificial Intelligence and Generative Models
-
----
-
-- 🤖 Machine Learning Engineer skilled in **ML, Deep Learning, and NLP**
-- 🧪 Currently learning **Generative AI** and Transformer-based architectures
-- 🎓 Former Expert Faculty at Techmicra IT Solutions & Silver Oak College
-- 🔬 Passionate about creating **real-world AI solutions**
-- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/lad-soham/)
-- 📫 Email me at: ladsoham718@gmail.com
-
----
-
-### 🤝 Let’s Collaborate On:
-- Production-ready **ML/DL apps**
-- Research-driven **GenAI projects**
-- AI + Data Science for impact-driven startups
-
----
-
-### 🛠️ Skills & Tools:
-
-![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange?style=flat&logo=tensorflow)
-![Keras](https://img.shields.io/badge/-Keras-red?style=flat&logo=keras)
-![Transformers](https://img.shields.io/badge/-Transformers-yellow?style=flat&logo=huggingface)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv)
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit)
-![Flask](https://img.shields.io/badge/-Flask-black?style=flat&logo=flask)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql)
-
----
-
-### 🔍 Featured Projects
-
-- 📊 **Loan Default Risk Prediction** – ML model for financial risk detection.
-- 📈 **Retail Demand Forecasting** – LSTM-based time-series prediction.
-- 💬 **Sentiment Analysis for Brand Monitoring** – NLP on social media.
-- 🧑‍💻 **Face Recognition System** – OpenCV-based real-time face detection.
-
----
-
-> *“I believe AI isn't just the future — it's the tool that will redefine the present.”*
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
