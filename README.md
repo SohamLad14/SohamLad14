@@ -66,11 +66,6 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.5.2-blue)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-3.4.3-red)
 
-- **Python 3.10**
-- **TensorFlow / Keras**
-- **NumPy / Pandas**
-- **Streamlit**
-- **OpenCV**
-- **Matplotlib (for visualization)**
+
 
 ---
